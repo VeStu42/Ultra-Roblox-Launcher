@@ -14,3 +14,5 @@ File: This is not official, and not affiliated with roblox.
 Workshop: I can get you themes!
 
 Keep up to date: Delete the old version and download the exe!
+
+Watch Out: Most edited versions may be a virus!!
