@@ -5,6 +5,6 @@ go into the workshop to get themes!
 
 What it is: "A custom Roblox launcher with themes and favorites."
 
-How to run: "Download the file and run it with Python."
+How to run: "Download the raw file and run it"
 
 The Disclaimer: Keep that "Not Official" notice front and center!
